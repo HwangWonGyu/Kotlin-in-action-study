@@ -4,8 +4,8 @@
 
 ### 다루는 범위
 ### Ch.01 [코틀린이란 무엇이며, 왜 필요한가?](https://github.com/HwangWonGyu/Kotlin-in-action-study/blob/master/ch01.md)
-### Ch.02 코틀린의 기초
-### Ch.03 함수 정의와 호출
+### Ch.02 [코틀린의 기초](https://github.com/HwangWonGyu/Kotlin-in-action-study/blob/master/ch02.md)
+### Ch.03 [함수 정의와 호출](https://github.com/HwangWonGyu/Kotlin-in-action-study/blob/master/ch03.md)
 ### Ch.04 클래스, 객체, 인터페이스
 ### Ch.05 람다로 프로그래밍
 ### Ch.06 코틀린 타입 시스템
