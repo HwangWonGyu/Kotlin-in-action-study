@@ -3,7 +3,7 @@
 ['Kotlin in Action' 책](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791161750712)을 위주로 Kotlin 스터디를 기록하는 저장소 입니다.
 
 ### 다루는 범위
-### Ch.01 코틀린이란 무엇이며, 왜 필요한가?
+### Ch.01 [코틀린이란 무엇이며, 왜 필요한가?](https://github.com/HwangWonGyu/Kotlin-in-action-study/blob/master/ch01.md)
 ### Ch.02 코틀린의 기초
 ### Ch.03 함수 정의와 호출
 ### Ch.04 클래스, 객체, 인터페이스
