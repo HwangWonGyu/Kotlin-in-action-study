@@ -11,7 +11,7 @@
 ### Ch.06 [코틀린 타입 시스템](https://github.com/HwangWonGyu/Kotlin-in-action-study/wiki/Ch.06-%EC%BD%94%ED%8B%80%EB%A6%B0-%ED%83%80%EC%9E%85-%EC%8B%9C%EC%8A%A4%ED%85%9C)
 ### Ch.07 [연산자 오버로딩과 기타 관례](https://github.com/HwangWonGyu/Kotlin-in-action-study/wiki/Ch.07-%EC%97%B0%EC%82%B0%EC%9E%90-%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9%EA%B3%BC-%EA%B8%B0%ED%83%80-%EA%B4%80%EB%A1%80)
 ### Ch.08 [고차 함수 : 파라미터와 반환 값으로 람다 사용](https://github.com/HwangWonGyu/Kotlin-in-action-study/wiki/Ch.08-%EA%B3%A0%EC%B0%A8-%ED%95%A8%EC%88%98-:-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%EC%99%80-%EB%B0%98%ED%99%98-%EA%B0%92%EC%9C%BC%EB%A1%9C-%EB%9E%8C%EB%8B%A4-%EC%82%AC%EC%9A%A9)
-### Ch.09 제네릭스
+### Ch.09 [제네릭스](https://github.com/HwangWonGyu/Kotlin-in-action-study/wiki/Ch.09-%EC%A0%9C%EB%84%A4%EB%A6%AD%EC%8A%A4)
 
 ### 다루지 않는 범위
 ### Ch.10 애노테이션과 리플렉션
